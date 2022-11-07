@@ -1,1 +1,1 @@
-# smart Home project" 
+# Smart Home project" 
